@@ -36,7 +36,6 @@
     <maven-checkstyle.version>3.6.0</maven-checkstyle.version>
     <nohttp-checkstyle.version>0.0.11</nohttp-checkstyle.version>
     <spring-format.version>0.0.46</spring-format.version>
-    <java.version>1.8</java.version>
     <sonar.organization>shyamjith06</sonar.organization>
   </properties>
 
